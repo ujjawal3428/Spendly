@@ -2,6 +2,9 @@
 
 > A production-grade personal finance dashboard built with Flutter & Material 3, developed end-to-end using an AI-assisted engineering workflow that compressed a multi-week project into a focused, high-quality sprint.
 
+I've used github copilot for project structure and mvp , then used claude to make ui creative, smooth,modern and eye catching ,
+also used claude to add pagination on the transaction list and theme of the app. and solved all the overflow issues and minor syntax problems manually.
+
 ---
 
 ## Table of Contents
